@@ -7,7 +7,7 @@ This repository contains the data and R scripts used in the analysis of the exch
 - `Original Data + Cleaning Code`: A folder containing the raw data files and the code used to clean and create new variables. 
 - `csv`: Data sets containing the variables used for this project. The annual one includes number of international college students, which is the only variable that only available yearly. The other variables can be found in the Monthly one as well. 
 - `R files`: Output files including R codes for analysis and figures.
-- `.tex`: Tex file of the final write up of this project, which includes Abstract, Literature Review, Ethical Considerations, Data & Methods, Results, Discussion & Interpretations, Limitations, and relevant future work. 
+- `DA401_F24_FinalDraft_Celine.pdf`: Pdf file of the final write up of this project, which includes Abstract, Literature Review, Ethical Considerations, Data & Methods, Results, Discussion & Interpretations, Limitations, and relevant future work. All references used, including the sources for the data set, can be found in the References. 
 
 ## Data Source
 
